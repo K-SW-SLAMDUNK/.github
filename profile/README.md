@@ -8,6 +8,11 @@
 ## 👨‍👩‍👧‍👦 Members
 |[![Jun0zo](https://avatars.githubusercontent.com/u/37208901?v=4)](https://github.com/Jun0zo)|[![smpark00](https://avatars.githubusercontent.com/u/126854215)](http://github.com/smpark00)|[![luckydipper](https://avatars.githubusercontent.com/u/65158138?v=4)](https://github.com/luckydipper)|[![JenaL22](https://avatars.githubusercontent.com/u/156327634?v=4)](https://github.com/JenaL22)|
 |:---:|:---:|:---:|:---:|
-|** [조준영](https://github.com/Jun0zo)**|** [박승민](http://github.com/smpark00)**|** [김희성](https://github.com/luckydipper)**|** [이제나](https://github.com/JenaL22)**|
+| [Joonyoung Jo](https://github.com/Jun0zo)| [Seungmin Park](http://github.com/smpark00)| [Heesung Kim](https://github.com/luckydipper)| [Jena Lee](https://github.com/JenaL22)|
+
+|[![dlgurwn](https://avatars.githubusercontent.com/u/164037157?v=4)](https://github.com/dlgurwn)|[![chang9906](https://avatars.githubusercontent.com/u/128320610?v=4)](https://github.com/chang9906)|[![cmorales20](https://avatars.githubusercontent.com/u/41304952?v=4)](https://github.com/cmorales20)|
+|:---:|:---:|:---:|
+| [Hyeokju Lee](https://github.com/dlgurwn)| [Changjun Kim](https://github.com/chang9906)| [Cat Morales](https://github.com/cmorales20)|
+
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&animation=fadeIn&section=footer)](https://github.com/K-SW-SLAMDUNK) 
