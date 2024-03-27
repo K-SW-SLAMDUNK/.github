@@ -6,7 +6,7 @@
 </div>
 
 ## 👨‍👩‍👧‍👦 Members
-| [![Jun0zo](https://avatars.githubusercontent.com/u/37208901?v=4)](https://github.com/Jun0zo) | [![smpark00](https://avatars.githubusercontent.com/u/126854215)](http://github.com/smpark00) | [![luckydipper](https://avatars.githubusercontent.com/u/65158138?v=4)](https://github.com/luckydipper) | [![JenaL22](https://avatars.githubusercontent.com/u/156327634?v=4)](https://github.com/JenaL22) |
+| [![Jun0zo](https://avatars.githubusercontent.com/u/37208901?v=4 =150x150)](https://github.com/Jun0zo) | [![smpark00](https://avatars.githubusercontent.com/u/126854215)](http://github.com/smpark00) | [![luckydipper](https://avatars.githubusercontent.com/u/65158138?v=4)](https://github.com/luckydipper) | [![JenaL22](https://avatars.githubusercontent.com/u/156327634?v=4)](https://github.com/JenaL22) |
 |:---:|:---:|:---:|:---:|
 | [Joonyoung Jo](https://github.com/Jun0zo) | [Seungmin Park](http://github.com/smpark00) | [Heesung Kim](https://github.com/luckydipper) | [Jena Lee](https://github.com/JenaL22) |
 
