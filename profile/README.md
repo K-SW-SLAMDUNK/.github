@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/K-SW-SLAMDUNK&count_bg=%23000000&title_bg=%23555555&icon=#253B73_color=%23E7E7E7&title=SLAMDUNK&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/K-SW-SLAMDUNK&count_bg=%23000000&title_bg=%23555555&icon=#253B73&icon_color=%23E7E7E7&title=SLAMDUNK&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 ## 💁🏻 About Team
