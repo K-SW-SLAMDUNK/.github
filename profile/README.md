@@ -5,6 +5,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/K-SW-SLAMDUNK&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=SLAMDUNK&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
+## 💁🏻 About Team
+> We are an international team of Korean university and Purdue university.
+
+## 🚀 Project
+> (2024.03 ~ 06) Focusing to create guidelines for UAV to prevent privacy issues
+
 ## 👨‍👩‍👧‍👦 Members
 | [![Jun0zo](https://avatars.githubusercontent.com/u/37208901?v=4)](https://github.com/Jun0zo) | [![smpark00](https://avatars.githubusercontent.com/u/126854215?v=4)](https://github.com/smpark00) | [![luckydipper](https://avatars.githubusercontent.com/u/65158138?v=4)](https://github.com/luckydipper) | [![JenaL22](https://avatars.githubusercontent.com/u/156327634?v=4)](https://github.com/JenaL22) | [![dlgurwn](https://avatars.githubusercontent.com/u/164037157?v=4)](https://github.com/dlgurwn) | [![chang9906](https://avatars.githubusercontent.com/u/128320610?v=4)](https://github.com/chang9906) | [![cmorales20](https://avatars.githubusercontent.com/u/41304952?v=4)](https://github.com/cmorales20) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
